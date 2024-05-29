@@ -70,7 +70,7 @@ FILE_TYPES=(
     # Document Files
     ["doc"]="Docs"
     ["docx"]="Docs"
-    ["pdf"]="PDFs"
+    ["pdf"]="Docs"
     ["xls"]="Docs"
     ["xlsx"]="Docs"
     ["ppt"]="Docs"
