@@ -64,4 +64,8 @@ Example:
 - **Subdir**: An optional argument to include files in all subdirectories.
 - **Skip**: An optional argument to skip a specific subdirectory.
 
+## Compatibility
+
+I have only tested this script on Ubuntu. I do not have any experience running this script on Windows or other operating systems. If you are using a different operating system, you may need to make adjustments to the script to ensure it works correctly.
+
 This script helps you maintain a clean and organized file system effortlessly. Enjoy using it!
